@@ -1,0 +1,17 @@
+# Default ignored files
+/workspace.xml
+/functional-programming/target/
+/functional-programming/.classpath
+/functional-programming/.project
+/functional-programming/functional-programming.iml
+/hackerRank/.classpath
+/hackerRank/.project
+/hackerRank/hackerRank.iml
+/object-create/.classpath
+/object-create/.project
+/object-create/object-create.iml
+/object-create/.settings/
+/.idea/
+/hackerRank/.settings/
+/functional-programming/.settings/
+/.idea/
